@@ -1,0 +1,41 @@
+2-Week Mark,Days Left,RRD,Score,Application,Environment,App ID,Host,Server Type,Scheduling,Scanner Location,Title,Tracking ID,QID,ATC,Primary?,Intrusive?,Patch Available?,Cluster Group
+2026-09-13,16,2026-09-27,9.7,Data Platform,Development,APP-1003,srv-101,Linux,Not Scheduled,Cloud,Operating system security update,TRK-20260001,QID-57931,Casey Brown,Yes,No,Yes,Cluster-A
+2026-08-14,-14,2026-08-28,6.6,Payments Gateway,Production,APP-1000,srv-102,Linux,In Progress,Internal-East,Operating system security update,TRK-20260002,QID-39260,Alex Morgan,Yes,No,No,Standalone
+2026-08-09,-19,2026-08-23,9.9,Payments Gateway,Development,APP-1000,srv-103,Linux,Scheduled,Internal-West,Web server package vulnerability,TRK-20260003,QID-80868,Alex Morgan,Yes,No,Yes,Cluster-B
+2026-08-16,-12,2026-08-30,7.5,Identity Service,QA,APP-1001,srv-104,Linux,Not Scheduled,Cloud,Outdated TLS configuration,TRK-20260004,QID-91134,Jordan Lee,Yes,No,No,Standalone
+2026-09-12,15,2026-09-26,6.8,Data Platform,QA,APP-1003,srv-105,Windows,Change Window Requested,Internal-East,Authentication hardening requirement,TRK-20260005,QID-20728,Casey Brown,No,No,Yes,Cluster-C
+2026-09-29,32,2026-10-13,5.7,Payments Gateway,Production,APP-1000,srv-106,Appliance,In Progress,Internal-East,Deprecated cipher suite,TRK-20260006,QID-29920,Alex Morgan,No,No,Yes,Cluster-A
+2026-10-13,46,2026-10-27,7.4,Customer Portal,QA,APP-1002,srv-107,Appliance,Scheduled,Cloud,Certificate configuration finding,TRK-20260007,QID-86008,Taylor Smith,No,Yes,Yes,Cluster-C
+2026-10-02,35,2026-10-16,8.2,Payments Gateway,Production,APP-1000,srv-108,Appliance,Scheduled,Cloud,Certificate configuration finding,TRK-20260008,QID-47302,Alex Morgan,No,No,Yes,Cluster-A
+2026-10-01,34,2026-10-15,6.1,Network Tools,Production,APP-1004,srv-109,Windows,Not Scheduled,Internal-East,Database security patch,TRK-20260009,QID-26952,Riley Chen,Yes,No,Yes,Standalone
+2026-08-13,-15,2026-08-27,5.0,Data Platform,Development,APP-1003,srv-110,Windows,Change Window Requested,Internal-West,Database security patch,TRK-20260010,QID-64433,Casey Brown,No,No,Yes,Cluster-B
+2026-08-22,-6,2026-09-05,4.5,Identity Service,Production,APP-1001,srv-111,Appliance,Change Window Requested,Internal-East,Certificate configuration finding,TRK-20260011,QID-87217,Jordan Lee,Yes,No,Yes,Cluster-A
+2026-08-21,-7,2026-09-04,6.5,Customer Portal,Development,APP-1002,srv-112,Appliance,Scheduled,Internal-East,Outdated TLS configuration,TRK-20260012,QID-69853,Taylor Smith,No,No,Yes,Standalone
+2026-08-16,-12,2026-08-30,6.9,Data Platform,Production,APP-1003,srv-113,Linux,Not Scheduled,Internal-East,Certificate configuration finding,TRK-20260013,QID-31273,Casey Brown,Yes,No,No,Cluster-A
+2026-08-16,-12,2026-08-30,4.0,Identity Service,Development,APP-1001,srv-114,Linux,Scheduled,Cloud,Outdated TLS configuration,TRK-20260014,QID-19216,Jordan Lee,Yes,No,Yes,Cluster-B
+2026-10-23,56,2026-11-06,5.5,Customer Portal,Development,APP-1002,srv-115,Windows,In Progress,Internal-East,Operating system security update,TRK-20260015,QID-73972,Taylor Smith,No,No,Yes,Cluster-C
+2026-08-13,-15,2026-08-27,4.9,Customer Portal,Development,APP-1002,srv-116,Windows,In Progress,Cloud,Web server package vulnerability,TRK-20260016,QID-77676,Taylor Smith,Yes,Yes,No,Cluster-C
+2026-08-21,-7,2026-09-04,8.1,Payments Gateway,Development,APP-1000,srv-117,Windows,Not Scheduled,Cloud,Database security patch,TRK-20260017,QID-77947,Alex Morgan,No,Yes,Yes,Cluster-B
+2026-10-10,43,2026-10-24,7.2,Network Tools,QA,APP-1004,srv-118,Appliance,Change Window Requested,Cloud,Authentication hardening requirement,TRK-20260018,QID-41377,Riley Chen,No,No,Yes,Cluster-B
+2026-10-08,41,2026-10-22,7.0,Payments Gateway,Production,APP-1000,srv-119,Windows,In Progress,Internal-West,Authentication hardening requirement,TRK-20260019,QID-89316,Alex Morgan,No,No,No,Cluster-C
+2026-09-18,21,2026-10-02,4.5,Payments Gateway,Production,APP-1000,srv-120,Windows,Change Window Requested,Internal-West,Authentication hardening requirement,TRK-20260020,QID-73262,Alex Morgan,Yes,No,No,Cluster-C
+2026-10-24,57,2026-11-07,4.5,Payments Gateway,QA,APP-1000,srv-121,Appliance,Change Window Requested,Internal-West,Web server package vulnerability,TRK-20260021,QID-66875,Alex Morgan,No,Yes,No,Standalone
+2026-10-01,34,2026-10-15,6.4,Payments Gateway,Development,APP-1000,srv-122,Linux,Change Window Requested,Internal-East,Outdated TLS configuration,TRK-20260022,QID-29811,Alex Morgan,No,No,Yes,Standalone
+2026-10-26,59,2026-11-09,9.6,Identity Service,Development,APP-1001,srv-123,Appliance,Change Window Requested,Internal-East,Outdated TLS configuration,TRK-20260023,QID-95154,Jordan Lee,Yes,No,No,Cluster-B
+2026-09-27,30,2026-10-11,9.9,Identity Service,Production,APP-1001,srv-124,Linux,Scheduled,Internal-East,Database security patch,TRK-20260024,QID-75688,Jordan Lee,Yes,No,Yes,Cluster-C
+2026-10-11,44,2026-10-25,6.5,Identity Service,Production,APP-1001,srv-125,Appliance,Scheduled,Internal-West,Remote service vulnerability,TRK-20260025,QID-75752,Jordan Lee,Yes,No,Yes,Cluster-A
+2026-09-28,31,2026-10-12,8.7,Network Tools,Production,APP-1004,srv-126,Linux,Change Window Requested,Internal-East,Certificate configuration finding,TRK-20260026,QID-91146,Riley Chen,Yes,No,Yes,Cluster-C
+2026-10-08,41,2026-10-22,7.2,Data Platform,Production,APP-1003,srv-127,Appliance,Not Scheduled,Internal-East,Authentication hardening requirement,TRK-20260027,QID-46296,Casey Brown,Yes,Yes,No,Standalone
+2026-10-13,46,2026-10-27,4.2,Payments Gateway,QA,APP-1000,srv-128,Windows,Change Window Requested,Cloud,Database security patch,TRK-20260028,QID-69289,Alex Morgan,No,No,Yes,Cluster-C
+2026-10-13,46,2026-10-27,9.4,Identity Service,QA,APP-1001,srv-129,Linux,In Progress,Internal-East,Remote service vulnerability,TRK-20260029,QID-67949,Jordan Lee,No,Yes,No,Cluster-B
+2026-09-26,29,2026-10-10,4.4,Customer Portal,Production,APP-1002,srv-130,Linux,Scheduled,Internal-East,Database security patch,TRK-20260030,QID-27990,Taylor Smith,No,Yes,No,Cluster-A
+2026-09-22,25,2026-10-06,9.3,Identity Service,Development,APP-1001,srv-131,Linux,Change Window Requested,Cloud,Remote service vulnerability,TRK-20260031,QID-77581,Jordan Lee,No,No,Yes,Cluster-B
+2026-09-17,20,2026-10-01,5.9,Customer Portal,Production,APP-1002,srv-132,Windows,In Progress,Internal-West,Outdated TLS configuration,TRK-20260032,QID-60376,Taylor Smith,No,No,No,Cluster-C
+2026-10-07,40,2026-10-21,9.8,Payments Gateway,Production,APP-1000,srv-133,Linux,Not Scheduled,Internal-West,Database security patch,TRK-20260033,QID-15188,Alex Morgan,Yes,No,Yes,Standalone
+2026-09-05,8,2026-09-19,6.4,Network Tools,Development,APP-1004,srv-134,Appliance,In Progress,Cloud,Deprecated cipher suite,TRK-20260034,QID-21725,Riley Chen,No,Yes,No,Cluster-B
+2026-09-26,29,2026-10-10,9.4,Customer Portal,Production,APP-1002,srv-135,Appliance,Not Scheduled,Internal-West,Operating system security update,TRK-20260035,QID-89715,Taylor Smith,Yes,Yes,Yes,Cluster-A
+2026-09-30,33,2026-10-14,4.1,Network Tools,QA,APP-1004,srv-136,Windows,Change Window Requested,Internal-East,Authentication hardening requirement,TRK-20260036,QID-24346,Riley Chen,Yes,No,Yes,Cluster-B
+2026-08-28,0,2026-09-11,9.6,Customer Portal,Development,APP-1002,srv-137,Linux,Scheduled,Internal-West,Web server package vulnerability,TRK-20260037,QID-45457,Taylor Smith,No,Yes,Yes,Cluster-A
+2026-08-04,-24,2026-08-18,4.1,Network Tools,Development,APP-1004,srv-138,Linux,In Progress,Internal-East,Certificate configuration finding,TRK-20260038,QID-23930,Riley Chen,No,No,Yes,Standalone
+2026-10-06,39,2026-10-20,5.8,Identity Service,Production,APP-1001,srv-139,Windows,Change Window Requested,Cloud,Web server package vulnerability,TRK-20260039,QID-63044,Jordan Lee,No,Yes,Yes,Cluster-A
+2026-08-12,-16,2026-08-26,7.8,Customer Portal,QA,APP-1002,srv-140,Linux,Not Scheduled,Internal-East,Remote service vulnerability,TRK-20260040,QID-76314,Taylor Smith,No,No,Yes,Cluster-C
